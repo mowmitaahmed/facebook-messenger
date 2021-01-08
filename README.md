@@ -4,7 +4,7 @@
 
 [Site Link](https://focused-booth-60a500.netlify.app/) 
 
-**Technologies Used: **
+** Technologies Used: **
 - React Js
 - Material UI
 - React Flip Move
